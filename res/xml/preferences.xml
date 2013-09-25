@@ -112,4 +112,6 @@
                 android:targetClass="com.android.settings.Settings$BlacklistSettingsActivity" />
         </PreferenceScreen>
 
+    </PreferenceCategory>
+
 </PreferenceScreen>
