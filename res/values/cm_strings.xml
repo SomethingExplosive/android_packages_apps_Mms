@@ -20,6 +20,9 @@
     <string name="blacklist_summary_disabled">Disabled</string>
     <string name="blacklist_summary">Incoming messages from phone numbers in the blacklist will be blocked</string>
 
+    <!-- Extra Settings -->
+    <string name="pref_extra_settings">Extra settings</string>
+
     <!-- Blacklist notifications -->
     <string name="blacklist_notification">Blocked a message from %s</string>
     <string name="blacklist_notification_private_number">Blocked a message from a private number</string>
